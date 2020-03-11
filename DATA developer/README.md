@@ -2,7 +2,7 @@
 All my skills and training certificates 
 
 
-[See my projects:blue_book:](https://github.com/pzim-devdata/DATA-developer)
+[See my projects :blue_book:](https://github.com/pzim-devdata/DATA-developer)
 
 ------------------------------------------------
 
