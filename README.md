@@ -1,9 +1,11 @@
 # Skills-and-training-certificates
 All my skills and training certificates :
-- [DATA developer](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/DATA%20developer)
+- [DATA developer](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/DATA%20developer) [See my projects :blue_book:](https://github.com/pzim-devdata/DATA-developer)
 - [Web developer](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Web%20developer)
 - [Project management](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Project%20management)
-- [Python developer](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Python%20developer)
+- [Python developer](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Python%20developer) [See my Python projects :blue_book:](https://github.com/pzim-devdata/DATA-developer)
+[and other little Python scripts for Linux :blue_book:](https://github.com/pzim-devdata/Tools-for-Linux)
+
 - [Other skills](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Other%20certificates)
 
 See my profils :
