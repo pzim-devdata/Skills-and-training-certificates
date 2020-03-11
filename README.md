@@ -31,3 +31,12 @@ See my profils :
 
 
 ![](https://github.com/pzim-devdata/Skills-and-training-certificates/blob/master/DATA%20developer/EXPLOITER%20UNE%20BASE%20DE%20DONNEES.png)
+
+------------------------------------------------
+
+![](https://github.com/pzim-devdata/Skills-and-training-certificates/blob/master/Project%20management/M%C3%A9thodes%20agiles%20de%20gestion%20et%20amor%C3%A7age%20de%20projet%20.png)
+
+------------------------------------------------
+
+![](https://github.com/pzim-devdata/Skills-and-training-certificates/blob/master/Python%20developer/Python%20Sololearn.png)
+
