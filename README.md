@@ -13,7 +13,7 @@ See my profils :
 
 - [Openclassrooms](https://github.com/pzim-devdata/Skills-and-training-certificates/blob/master/Tableau%20de%20bord%20-%20OpenClassrooms.png)
 
-- [Codecademy](https://www.codecademy.com/profil/Pzim)
+- [Codecademy](https://www.codecademy.com/profiles/Pzim)
 
 - [Sololearn](https://www.sololearn.com/Profile/13232439)
 
