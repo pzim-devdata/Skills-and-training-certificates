@@ -1,5 +1,6 @@
 # Python developer
 All my skills and training certificates 
+[See my Python projects](https://github.com/pzim-devdata/DATA-developer)
 
 
 ------------------------------------------------
