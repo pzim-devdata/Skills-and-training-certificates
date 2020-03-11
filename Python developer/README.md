@@ -2,7 +2,7 @@
 All my skills and training certificates 
 
 [See my Python projects :blue_book:](https://github.com/pzim-devdata/DATA-developer)
-[and little Python scripts for Linux :blue_book:](https://github.com/pzim-devdata/Tools-for-Linux)
+[and other little Python scripts for Linux :blue_book:](https://github.com/pzim-devdata/Tools-for-Linux)
 
 
 ------------------------------------------------
