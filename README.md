@@ -8,7 +8,7 @@ See my profils :
 
 - [Sololearn](https://www.sololearn.com/Profile/13232439)
 
-- ![Openclassrooms](https://github.com/pzim-devdata/Skills-and-training-certificates/blob/master/Tableau%20de%20bord%20-%20OpenClassrooms.png)
+- [Openclassrooms](https://github.com/pzim-devdata/Skills-and-training-certificates/blob/master/Tableau%20de%20bord%20-%20OpenClassrooms.png)
 
 ------------------------------------------------
 
