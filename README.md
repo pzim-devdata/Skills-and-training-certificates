@@ -4,6 +4,7 @@ All my skills and training certificates :
 - [Web developer](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Web%20developer)
 - [Project management](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Project%20management)
 - [Python developer](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Python%20developer)
+- [Other skills](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Other%20certificates)
 
 See my profils :
 
