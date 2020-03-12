@@ -9,3 +9,15 @@ All my skills and training certificates
 
 
 ![](https://github.com/pzim-devdata/Skills-and-training-certificates/blob/master/Python%20developer/Python%20Sololearn.png)
+
+
+--------------------------------------------
+
+## - [Contact :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
+Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
+
+
+
+
+
+
