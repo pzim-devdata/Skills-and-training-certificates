@@ -1,12 +1,6 @@
 # DATA developer
 All my skills and training certificates 
 
-## Contact :
-Created by [@pzim](https://www.pzim.fr/) - feel free to [contact me :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)  !
-
-
-
-
 
 [See my projects :blue_book:](https://github.com/pzim-devdata/DATA-developer)
 
@@ -25,3 +19,15 @@ Created by [@pzim](https://www.pzim.fr/) - feel free to [contact me :email:](mai
 
 
 ![](https://github.com/pzim-devdata/Skills-and-training-certificates/blob/master/DATA%20developer/EXPLOITER%20UNE%20BASE%20DE%20DONNEES.png)
+
+
+
+--------------------------------------------
+
+## - [Contact :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
+Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
+
+
+
+
+
