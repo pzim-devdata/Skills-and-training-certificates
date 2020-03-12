@@ -17,8 +17,8 @@
 
 - [Sololearn](https://www.sololearn.com/Profile/13232439)
 
-## Contact :email: :
-Created by [@pzim](https://www.pzim.fr/) - feel free to [contact me](mailto:pizim@posteo.net?subject=Contact%20from%20Github) !
+## Contact :
+Created by [@pzim](https://www.pzim.fr/) - feel free to [contact me](mailto:pizim@posteo.net?subject=Contact%20from%20Github) :email: !
 
 
 
