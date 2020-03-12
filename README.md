@@ -1,5 +1,5 @@
 # Skills-and-training-certificates
-All my skills and training certificates :
+## All my skills and training certificates :
 - [DATA developer](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/DATA%20developer) / [See my DATA projects :blue_book:](https://github.com/pzim-devdata/DATA-developer)
 - [Web developer](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Web%20developer)
 - [Project management](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Project%20management)
@@ -8,7 +8,7 @@ All my skills and training certificates :
 
 - [Other skills](https://github.com/pzim-devdata/Skills-and-training-certificates/tree/master/Other%20certificates)
 
-See my profils :
+## See my profils :
 
 
 - [Openclassrooms](https://github.com/pzim-devdata/Skills-and-training-certificates/blob/master/Tableau%20de%20bord%20-%20OpenClassrooms.png)
@@ -16,6 +16,9 @@ See my profils :
 - [Codecademy](https://www.codecademy.com/profiles/Pzim)
 
 - [Sololearn](https://www.sololearn.com/Profile/13232439)
+
+## [Contact :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
+Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
 
 
 
