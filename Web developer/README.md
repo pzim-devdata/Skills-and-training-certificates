@@ -8,7 +8,7 @@ See my [website](https://www.pzim.fr) made in HTML and CSS !
 
 --------------------------------------------
 
-## - [Contact :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
+## - [Contact :email:](mailto:contact@pzim.fr?subject=Contact%20from%20Github)
 Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
 
 
