@@ -53,7 +53,7 @@ Created by [@pzim](https://www.pzim.fr/) - feel free to [contact me :email:](mai
 Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
 
 
- [Go up](Skills-and-training-certificates)
+ [Go up](/Skills-and-training-certificates)
 
 
 
